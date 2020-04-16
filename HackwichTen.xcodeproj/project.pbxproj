@@ -13,6 +13,7 @@
 		88CF61A4244835EA00E4070B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 88CF61A2244835EA00E4070B /* Main.storyboard */; };
 		88CF61A6244835EE00E4070B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 88CF61A5244835EE00E4070B /* Assets.xcassets */; };
 		88CF61A9244835EE00E4070B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 88CF61A7244835EE00E4070B /* LaunchScreen.storyboard */; };
+		88CF61B324483C8300E4070B /* Restaurant.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88CF61B224483C8300E4070B /* Restaurant.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		88CF61A5244835EE00E4070B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		88CF61A8244835EE00E4070B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		88CF61AA244835EE00E4070B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		88CF61B224483C8300E4070B /* Restaurant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Restaurant.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				88CF619C244835EA00E4070B /* AppDelegate.swift */,
 				88CF619E244835EA00E4070B /* SceneDelegate.swift */,
 				88CF61A0244835EA00E4070B /* ViewController.swift */,
+				88CF61B224483C8300E4070B /* Restaurant.swift */,
 				88CF61A2244835EA00E4070B /* Main.storyboard */,
 				88CF61A5244835EE00E4070B /* Assets.xcassets */,
 				88CF61A7244835EE00E4070B /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				88CF61B324483C8300E4070B /* Restaurant.swift in Sources */,
 				88CF61A1244835EA00E4070B /* ViewController.swift in Sources */,
 				88CF619D244835EA00E4070B /* AppDelegate.swift in Sources */,
 				88CF619F244835EA00E4070B /* SceneDelegate.swift in Sources */,
